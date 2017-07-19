@@ -2,7 +2,7 @@
 export ZSH=~/.oh-my-zsh
 export BWATZSH=~/.bwatzsh
 
-ZSH_THEME="avit"
+ZSH_THEME="tjkirch"
 ZSH_CUSTOM=$BWATZSH/custom
 plugins=(git encode64 grunt gulp npm yarn)
 
